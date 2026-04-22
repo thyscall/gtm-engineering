@@ -1,4 +1,4 @@
-# Macro-Trend Signal Engine
+# Marketing Lead Enrichment
 
 This is a routing tool that pulls raw lead data from a marketing enrichment API. 
 The SDRs need a quick way to pull leads by department, 
